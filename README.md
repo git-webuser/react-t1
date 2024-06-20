@@ -46,6 +46,7 @@ npm start
 - React
 - TypeScript
 - Material-UI
+- React Hook Form
 
 ## Заключение
 
