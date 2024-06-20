@@ -1,0 +1,6 @@
+.auth-page {
+    height: 100vh;
+    background: no-repeat url(./images/image-bg.png);
+    background-size: auto 100vh;
+    background-position: right center;
+}

@@ -1,0 +1,25 @@
+.auth-form {
+    display: flex;
+    width: 30vw;
+    height: 100vh;
+    background: #FFFDFA;
+    border-radius: 0 20px 20px 0;
+    padding: 48px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+}
+
+.auth-form__title {
+    color: #161616;
+}
+
+.auth-form__input {
+    color: #255CA2;
+}
+
+/* .auth-form__input.MuiOutlinedInput-root {
+    color: #255CA2;
+    border-radius: '8px';
+} */
+
